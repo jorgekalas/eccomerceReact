@@ -11,5 +11,8 @@ padding-bottom: 2rem;
 background: linear-gradient(to bottom, #c6d3dd, #004466);
 }
 
+@media(max-width:718px){
+    body{max-width: 370px}
+}
 
 

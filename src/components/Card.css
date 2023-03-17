@@ -98,5 +98,4 @@ button:hover {
 @media(max-width:718px){
     .card {align-self: center; max-width: 250px; margin: 1rem;}
     span{visibility: hidden;}
-  }
-  
+}

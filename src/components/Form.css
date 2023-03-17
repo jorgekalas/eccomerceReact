@@ -47,5 +47,6 @@ button[type="submit"]:hover {
 }
 
 @media(max-width:718px){
-  form {align-self: center;max-width: 300px;}
-}
+	form {align-self: center;max-width: 300px;}
+  }
+  
